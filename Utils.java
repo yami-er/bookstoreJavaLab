@@ -15,7 +15,7 @@ public class Utils
     {
       Object[] arr = lines.toArray();
 
-      for(Object t: arr)
+      for(Object t:arr)
       {
         arrList.add(t.toString());
       }
